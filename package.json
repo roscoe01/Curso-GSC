@@ -1,0 +1,16 @@
+{
+    "name": "curso-gsc",
+    "version": "1.0.0",
+    "description": "Curso de Grupo San Cristobal Full Stack",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "build": "tsc",
+        "start": "node ejerciciosAdicionales/Typescript/dist/ejercicio1.js"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "typescript": "^5.2.2"
+    }
+}
